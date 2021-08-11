@@ -13,13 +13,13 @@ o desafio era implementar 3 funcionalidades na aplicação:
 <h2>Como baixar o projeto</h2>
 
     Clone do repositório
-    $ git clone https://github.com/saviobarbosa/dogs.git
+    $ git clone https://github.com/saviobarbosa/desafio-todo-reactjs.git
 
     Instalação das dependências
-    $ npm install
+    $ yarn
 
     Inicie o projeto
-    $ npm start
+    $ yarn dev
 
 
 <br>
